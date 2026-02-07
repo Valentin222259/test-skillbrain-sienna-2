@@ -42,11 +42,11 @@ height: 40px;
 margin-right: 16px;
 }
 
-.app-title{
-font-weight: bold;
-font-size: 30px;
-line-height: 28px;
-color: #173A56;
+.app-title {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 28px;
+    color: #FF7F50; /* Schimbat de la #173A56 */
 }
 
 .nav-links-container{

@@ -1,0 +1,7 @@
+Feedback:
+Structura HTML este bine organizată folosind clase semantice precum .nav-bar-wrapper, ceea ce face codul ușor de citit.
+Utilizarea variabilelor CSS pentru fontul 'Poppins' asigură o consistență vizuală foarte bună în întreaga pagină.
+
+Sugestii:
+În fișierul landing_page.css, clasa .content-left-col pare să nu aibă acolade de închidere/deschidere înainte de .content-right-col. Ar fi bine să verifici sintaxa pentru a evita erori de stilizare.
+În landing_page.html, butonul de 'Sign in' are un comentariu ``. Ar fi mai bine să formatăm codul standard pentru a menține un stil unitar în echipă.
